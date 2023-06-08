@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": null,
   "keywords": [],
-  "homepage": null,
+  "homepage": "https://andrew-ringle.github.io/JaSchedulerSparq/",
   "main": "index.js",
   "dependencies": {
     "@aws-amplify/ui-react": "^3.6.1",
@@ -29,7 +29,9 @@
     "test": "react-app-rewired test",
     "eject": "react-app-rewired eject",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -81,6 +83,7 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-storybook": "^0.6.10",
+    "gh-pages": "^5.0.0",
     "prettier": "^2.8.3"
   }
 }
