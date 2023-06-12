@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": null,
   "keywords": [],
-  "homepage": "https://andrew-ringle.github.io/JaSchedulerSparq/",
+  "homepage": "http://andrew-ringle.github.io/JaSchedulerSparq/",
   "main": "index.js",
   "dependencies": {
     "@aws-amplify/ui-react": "^3.6.1",
