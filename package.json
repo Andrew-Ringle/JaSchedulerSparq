@@ -7,10 +7,10 @@
   "main": "index.js",
   "dependencies": {
     "@aws-amplify/ui-react": "^3.6.1",
-    "@emotion/react": "^11.10.5",
-    "@emotion/styled": "^11.10.5",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.11.0",
-    "@mui/material": "^5.11.8",
+    "@mui/material": "^5.13.4",
     "@mui/x-date-pickers": "^6.0.0",
     "aws-amplify": "^4.3.45",
     "axios": "^0.27.2",
