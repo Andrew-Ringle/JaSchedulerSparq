@@ -29,7 +29,7 @@ const App = () => {
     <DataProvider>
     <BrowserRouter>
       <Routes>
-        <Route path='https://andrew-ringle.github.io/JaSchedulerSparq/' element={<LandingPage><Login></Login></LandingPage>}></Route>
+        <Route path='/JaSchedulerSparq' element={<LandingPage><Login></Login></LandingPage>}></Route>
         <Route path='/profile' element={<RequireAuth><div style = {{display: 'flex', flexDirection: 'row'}}><NavBar></NavBar><ProfilePage></ProfilePage></div></RequireAuth>}></Route>
         <Route path= '/dashboard' element = {<RequireAuth><div style = {{display: 'flex', flexDirection: 'row'}}><NavBar></NavBar><Dashboard></Dashboard></div></RequireAuth>}/>
         <Route path= '/usermanagement' element = {<RequireAuth><div style = {{display: 'flex', flexDirection: 'row'}}><NavBar></NavBar><div>User Management!!!</div></div></RequireAuth>}/>
