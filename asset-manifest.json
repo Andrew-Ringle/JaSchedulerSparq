@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/JaSchedulerSparq/static/css/main.72caaa33.chunk.css",
-    "main.js": "/JaSchedulerSparq/static/js/main.a93523a8.chunk.js",
-    "main.js.map": "/JaSchedulerSparq/static/js/main.a93523a8.chunk.js.map",
+    "main.js": "/JaSchedulerSparq/static/js/main.1e12ef46.chunk.js",
+    "main.js.map": "/JaSchedulerSparq/static/js/main.1e12ef46.chunk.js.map",
     "runtime-main.js": "/JaSchedulerSparq/static/js/runtime-main.d789316d.js",
     "runtime-main.js.map": "/JaSchedulerSparq/static/js/runtime-main.d789316d.js.map",
     "static/css/2.590c32d9.chunk.css": "/JaSchedulerSparq/static/css/2.590c32d9.chunk.css",
     "static/js/2.25fc98c4.chunk.js": "/JaSchedulerSparq/static/js/2.25fc98c4.chunk.js",
     "static/js/2.25fc98c4.chunk.js.map": "/JaSchedulerSparq/static/js/2.25fc98c4.chunk.js.map",
     "index.html": "/JaSchedulerSparq/index.html",
-    "precache-manifest.9850fad0c2a636d10d4c5e3b013b5cb2.js": "/JaSchedulerSparq/precache-manifest.9850fad0c2a636d10d4c5e3b013b5cb2.js",
+    "precache-manifest.bafc486881c7e89b8dc682e9d1a6bad8.js": "/JaSchedulerSparq/precache-manifest.bafc486881c7e89b8dc682e9d1a6bad8.js",
     "service-worker.js": "/JaSchedulerSparq/service-worker.js",
     "static/css/2.590c32d9.chunk.css.map": "/JaSchedulerSparq/static/css/2.590c32d9.chunk.css.map",
     "static/css/main.72caaa33.chunk.css.map": "/JaSchedulerSparq/static/css/main.72caaa33.chunk.css.map",
     "static/js/2.25fc98c4.chunk.js.LICENSE.txt": "/JaSchedulerSparq/static/js/2.25fc98c4.chunk.js.LICENSE.txt",
-    "static/js/main.a93523a8.chunk.js.LICENSE.txt": "/JaSchedulerSparq/static/js/main.a93523a8.chunk.js.LICENSE.txt",
+    "static/js/main.1e12ef46.chunk.js.LICENSE.txt": "/JaSchedulerSparq/static/js/main.1e12ef46.chunk.js.LICENSE.txt",
     "static/media/background.png": "/JaSchedulerSparq/static/media/background.fd9b0e42.png",
     "static/media/background3.png": "/JaSchedulerSparq/static/media/background3.9c6cc566.png",
     "static/media/logo.png": "/JaSchedulerSparq/static/media/logo.5020bcbd.png",
@@ -25,6 +25,6 @@
     "static/css/2.590c32d9.chunk.css",
     "static/js/2.25fc98c4.chunk.js",
     "static/css/main.72caaa33.chunk.css",
-    "static/js/main.a93523a8.chunk.js"
+    "static/js/main.1e12ef46.chunk.js"
   ]
 }
