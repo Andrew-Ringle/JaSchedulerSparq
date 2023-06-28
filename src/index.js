@@ -21,7 +21,7 @@ const App = () => {
 
   const logOut = () => {
     signOut();
-    useNavigate("/");
+    useNavigate("/JaSchedulerSparq");
   }
 
   return (
