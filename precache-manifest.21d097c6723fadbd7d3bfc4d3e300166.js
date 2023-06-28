@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2a251dbdabce75188934f8dd79e3e0b",
+    "revision": "2ee9af798d32f6c5cc342b122071aeaf",
     "url": "/JaSchedulerSparq/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JaSchedulerSparq/static/css/2.590c32d9.chunk.css"
   },
   {
-    "revision": "1bf29d064a6114577960",
+    "revision": "b96a9e4d8bffc0d4b84f",
     "url": "/JaSchedulerSparq/static/css/main.72caaa33.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JaSchedulerSparq/static/js/2.25fc98c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1bf29d064a6114577960",
-    "url": "/JaSchedulerSparq/static/js/main.1e12ef46.chunk.js"
+    "revision": "b96a9e4d8bffc0d4b84f",
+    "url": "/JaSchedulerSparq/static/js/main.7931387b.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/JaSchedulerSparq/static/js/main.1e12ef46.chunk.js.LICENSE.txt"
+    "url": "/JaSchedulerSparq/static/js/main.7931387b.chunk.js.LICENSE.txt"
   },
   {
     "revision": "28ee7611f864aa4d97c8",
